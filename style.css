@@ -42,11 +42,18 @@ h3 {
 
 h4 {
   font-family: Roboto;
-  font-style: normal; 
+  font-style: bold; 
   font-weight: bold;
-  font-size: 15px;
+  font-size: 30px;
   line-height: 100%;
   color: #c61010;
+}
+
+p {
+  font-family: Roboto;
+  font-style: light;
+  font-size: 15px;
+  color: #000000
 }
 
   
