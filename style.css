@@ -1,70 +1,129 @@
 body {
-  font-family: roboto, sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.flex-container{
+  background: white
+   }
+
+#hr{
+    height: 1px;
+    border: 0;
+    background-color:#CBC8C8; 
+  margin-top: 2px;
 }
 
 h1 {
-  height: 8px;
-  font-family: Montserrat;
+  height: 18px;
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
-  line-height: 100%;
+  margin-top: 20px;
   color: #000000;
   text-align:center;
-  margin-top:30px;
+  ;
 }
 
 
 h2 {
-  height: px;
-  font-family: Montserrat;
+  margin-top: 20px;
+  height: 1px;
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 300;
   font-size: 12px;
-  line-height: 100%;
   letter-spacing: 0.45px;
   color: #000000;
   text-align:center;
-  margin-top: 60px;
+  
 }
 
 #foto{
    background: url(http://wiki.ead.pucv.cl/images/2/2a/11693911_1220635241286733_5201483538511635849_n.png);
  background-size: cover;
-  height: 600px;
+ height: 600px;
+  margin-top:40px;
 
 }
 
 
 .bajada {
+  height: 100px;
   width: 350px;
-  font-family: Montserrat;
- font-style: normal;
- font-weight: normal;
- font-size: 15px;
- line-height: 160%;
-  height:71px;
- color: #FFFFFF;
- opacity: 0.80;
- margin-left:300px;
-  margin-top:90px;
-  background-color:black;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  color: #FFFFFF;
+  opacity: 0.80;
+  margin-left:300px;
+  margin-top: 30px;
+  background-color:rgba(0,0,0,0.4);
 }
 
-h4 {
-  font-family: Roboto;
-  font-style: bold; 
+.primerparrafo {
+  background: white;
+  height: 500px;
+}
+
+h4{
+  font-family: 'Roboto';
+  font-style: normal;
   font-weight: bold;
-  font-size: 30px;
-  line-height: 100%;
   color: #c61010;
+  width: 200px;
+  height:60px;
+  font-size: 28px;
+  position:float;
+  margin-left: 450px;
+  margin-top: 70px;
+  
 }
 
 p {
-  font-family: Montserrat;
+  font-family:'Roboto';
   font-style: normal;
-  font-weight: bold;
-  font-size: 16px;
-  color: #000000
+  font-weight: normal;
+  width: 300px;
+  color: black;
+  height:240px;
+  text-align: left;
+  margin-left: 450px;
+  }
+
+
+#foto2 {
+  background: url(http://wiki.ead.pucv.cl/images/e/e4/17796608_1688322684517984_7746170810603867937_n.png);
+  position:float;
+  width: 370px;
+  height:450px;
+  margin-left: 240px;
 }
 
+.segundoparrafo{
+  background: white;
+  height: 500px;
+  }
+
+#hr1{
+    height: 1px;
+    width: 770px;
+    margin-left: 240;
+    margin-top: 2px;
+    margin-bottom: 300px;
+    border: 0;
+    background-color:#C61010; 
+  
+}
+
+h5{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  color: #c61010;
+  width: 200px;
+  height:80px;
+  font-size: 28px;
+  margin-top: 40px;
+}
