@@ -55,17 +55,25 @@ h2 {
 .bajada {
   height: 80px;
   width: 350px;
-  font-family: 'Montserrat';
-  font-style: normal;
-  font-weight: normal;
-  font-size: 12px;
-  color: rgba(255,255,255,0.8);
+ 
   margin-left:300px;
   margin-top: 30px;
   background-color:rgba(0,0,0,0.4);
   position: float;
 }
 
+h3{
+  height: 80px;
+  width: 350px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: rgba(255,255,255,0.8);
+  margin-left:3px;
+  margin-top: 30px;
+  
+}
 .primerparrafo {
   background: white;
   height: 500px;
@@ -143,4 +151,40 @@ h6 {
   margin-left: 300;
 } 
 
+.tercerparrafo {
+  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
+  height: 900px;
+  width: 1200px;
+  }
 
+#hr2{
+    height: 1px;
+    border: 0;
+    background-color:#C61010; 
+    margin-top: 0px;
+  }
+
+h5{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  color: #c61010;
+  width: 200px;
+  height:60px;
+  font-size: 28px;
+  position:float;
+  margin-left: 800px;
+  margin-top: 70px;
+}
+
+h7 {
+ font-family:'Roboto';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: normal;
+  width: 300px;
+  color: black;
+  height:240px;
+  text-align: left;
+  margin-left: 800px; 
+}
