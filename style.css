@@ -142,21 +142,13 @@ p {
   width: 1220px; 
   top:30px;
   margin-top:20px;
-  margin-left:30px;
-  }
-
-#hr2{
-    height: 1px;
-    position:center;
-    margin-top: 32px;
-    border: 0;
-    background-color:#C61010; 
+  margin-left:40px;
   }
 
 
 .cuartoparrafo{
    background: white;
-  height: 300px;
+  height: 180px;
   }
 
 #foto4{
@@ -180,14 +172,14 @@ p {
   letter-spacing:2.2px;
   color:rgba(198,16,16,0.3);
   text-transform:uppercase;
-  margin-left:10px;
+  margin-left:13px;
   
 }
 
 .columnas{
   background:white;
-  height:500px;
-  margin-top:80px;
+  height:600px;
+  margin-top:30px;
   margin-left:270px;
 }
 
@@ -197,10 +189,42 @@ td {
   font-style: normal;
   font-weight: normal;
   text-align: left;
-  margin-left: 300px;
+  margin-left: 450px;
   width: 300px;
   vertical-align:top;
   padding: 60px;
 }
+
+.final{
+  background:white;
+  height:500px;
+  width:500px;
+  margin-left:270px;
+  margin-top:60px;
+}
+
+
+h6 {
+  font-family: 'Roboto';
+  font-weight:bold;
+  font-size: 15px;
+  color: #c61010;
+  height: 3px;
+  }
+
+h7 {
+  font-size:13px;
+  line-height:1.5em;
+  
+}
+#hr2{
+    height: 1px;
+    position:center;
+    margin-top: 32px;
+    border: 0;
+    background-color:#C61010; 
+  
+}
+
 
 
