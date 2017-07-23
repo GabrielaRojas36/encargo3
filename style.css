@@ -176,10 +176,10 @@ p {
   width: 1300px;
   height:738px;
   font-family:'Roboto';
-  font-size:70px;
+  font-size:170px;
   font-weight:bold;
-  letter-spacing:1.8px;
-  color:rgba(198,16,16,0.4);
+  letter-spacing:2.2px;
+  color:rgba(198,16,16,0.3);
   text-transform:uppercase;
   
 }
