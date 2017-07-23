@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-  height: 25px;
+  height: 4px;
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: normal;
@@ -243,17 +243,19 @@ a {
 }
 
 a:hover {
-  color:hotpink;
+  color:palevioletred;
     text-decoration: none;
   font-weight:bold;
 }
 
 h8 {
-  font-family:'Roboto';
-    margin-left:200px;
-  font-size: 17px;
-  word-spacing:1em;
+  font-family:'Montserrat';
+    margin-left:900px;
+  font-size: 14px;
+  word-spacing:2em;
+  margin-top:1px;
 }
+
 
 
 
