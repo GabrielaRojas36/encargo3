@@ -117,7 +117,7 @@ p {
 .segundoparrafo{
   background: white;
   height: 560px;
-  margin-left:250px;
+  margin-left:300px;
   }
 
 #hr1{
@@ -139,10 +139,10 @@ p {
 .tercerparrafo {
  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
   height: 900px;
-  width: 1100px; 
+  width: 1200px; 
   top:30px;
   margin-top:20px;
-   margin-left: 140px;
+   margin-left: 120px;
  ;
   }
 
