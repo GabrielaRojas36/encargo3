@@ -1,5 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
+  display:block;
+  margin:0px;
 }
 
 .flex-container{
@@ -229,7 +231,7 @@ h7 {
 
 .linea {
   background-color: #c61010;
-  height:20px;
+  height:40px;
   background-size:cover;
 }
 
