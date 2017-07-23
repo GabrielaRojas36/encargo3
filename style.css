@@ -235,5 +235,11 @@ h7 {
   background-size:cover;
 }
 
+a {
+  color: #c61010;
+  text-decoration:none;
+  font-weight:bold;
+}
+
 
 
