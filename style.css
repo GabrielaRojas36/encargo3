@@ -139,10 +139,10 @@ p {
 .tercerparrafo {
  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
   height: 900px;
-  width: 1220px; 
+  background-size:cover;
   top:30px;
   margin-top:20px;
-  margin-left:40px;
+  
   }
 
 
@@ -164,7 +164,7 @@ p {
 
 .requirements {
   background:url(http://wiki.ead.pucv.cl/images/2/23/18527821_1740791935937725_4792235349982594076_n.png);
-  width: 1300px;
+  background-size:cover;
   height:738px;
   font-family:'Roboto';
   font-size:170px;
@@ -172,7 +172,7 @@ p {
   letter-spacing:2.2px;
   color:rgba(198,16,16,0.3);
   text-transform:uppercase;
-  margin-left:13px;
+ 
   
 }
 
@@ -215,6 +215,7 @@ h6 {
 h7 {
   font-size:13px;
   line-height:1.5em;
+ 
   
 }
 #hr2{
@@ -224,6 +225,12 @@ h7 {
     border: 0;
     background-color:#C61010; 
   
+}
+
+.linea {
+  background-color: #c61010;
+  height:20px;
+  background-size:cover;
 }
 
 
