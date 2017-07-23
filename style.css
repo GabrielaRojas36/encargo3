@@ -139,9 +139,10 @@ p {
 .tercerparrafo {
  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
   height: 900px;
-  width: 1240px; 
+  width: 1220px; 
   top:30px;
   margin-top:20px;
+  margin-left:15px;
   }
 
 #hr2{
@@ -179,6 +180,7 @@ p {
   letter-spacing:2.2px;
   color:rgba(198,16,16,0.3);
   text-transform:uppercase;
+  margin-left:6px;
   
 }
 
@@ -186,7 +188,7 @@ p {
   background:white;
   height:500px;
   margin-top:80px;
-  margin-left:450px;
+  margin-left:300px;
 }
 
 td {
