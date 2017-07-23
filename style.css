@@ -117,6 +117,7 @@ p {
 .segundoparrafo{
   background: white;
   height: 560px;
+  margin-left:150px;
   }
 
 #hr1{
@@ -165,7 +166,7 @@ p {
   height:330px;
   margin-left: 300px;
   position:float;
-  margin-top: 85px;
+  margin-top: 150px;
 }
 
 
