@@ -128,22 +128,6 @@ p {
   
 }
 
-
-
-h6 {
-  font-family:'Roboto';
-  font-size: 17px;
-  font-style: normal;
-  font-weight: normal;
-  width: 300px;
-  color: black;
-  height:240px;
-  text-align: left;
-  margin-left: 450px;
-  
-  }
-
-
 #foto3 {
   background: url(http://wiki.ead.pucv.cl/images/3/34/17523123_1689997677683818_6865655074190150333_n.png);
   width: 390px;
@@ -152,39 +136,29 @@ h6 {
 } 
 
 .tercerparrafo {
-  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
+ background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
   height: 900px;
-  width: 1200px;
+  width: 1200px;  
+  margin-top:20px;
   }
 
 #hr2{
     height: 1px;
     border: 0;
     background-color:#C61010; 
-    margin-top: 0px;
+    margin-top: 2px;
   }
 
-h5{
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: bold;
-  color: #c61010;
-  width: 200px;
-  height:60px;
-  font-size: 28px;
-  position:float;
-  margin-left: 800px;
-  margin-top: 70px;
-}
 
-h7 {
- font-family:'Roboto';
-  font-size: 17px;
-  font-style: normal;
-  font-weight: normal;
-  width: 300px;
-  color: black;
-  height:240px;
-  text-align: left;
-  margin-left: 800px; 
+.cuartoparrafo{
+   background: white;
+  height: 500px;
+  }
+
+#foto4{
+  background: url(http://wiki.ead.pucv.cl/images/1/19/18700015_1755409997809252_1537485570356677866_n.png);
+  width: 260px;
+  height:330px;
+  margin-left: 300px;
+  position:float;
 }
