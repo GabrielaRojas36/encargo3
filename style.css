@@ -140,12 +140,11 @@ p {
 } 
 
 .tercerparrafo {
- background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
-  height: 900px;
-  background-size:cover;
+ background: white;
+  height: 460px;
   top:30px;
   margin-top:20px;
-  
+  margin-left:160px;
   }
 
 
