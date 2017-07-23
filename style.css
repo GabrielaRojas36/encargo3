@@ -116,7 +116,7 @@ p {
 
 .segundoparrafo{
   background: white;
-  height: 500px;
+  height: 560px;
   }
 
 #hr1{
@@ -137,22 +137,25 @@ p {
 
 .tercerparrafo {
  background: url(http://wiki.ead.pucv.cl/images/8/83/12924567_1315525731797683_3877302493348021079_n.png);
-  height: 500px;
-  width: 1200px;  
+  height: 900px;
+  width: 1100px; 
+  top:30px;
   margin-top:20px;
+  position:center;
   }
 
 #hr2{
     height: 1px;
+    position:center;
+    margin-top: 32px;
     border: 0;
     background-color:#C61010; 
-    margin-top: 2px;
   }
 
 
 .cuartoparrafo{
    background: white;
-  height: 500px;
+  height: 380px;
   }
 
 #foto4{
@@ -161,4 +164,6 @@ p {
   height:330px;
   margin-left: 300px;
   position:float;
+  margin-top: 85px;
 }
+
